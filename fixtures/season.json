@@ -1,0 +1,22 @@
+[
+  {
+    "model": "common.season",
+    "pk": 1,
+    "fields": { "name": "Primavera" }
+  },
+  {
+    "model": "common.season",
+    "pk": 2,
+    "fields": { "name": "Verano" }
+  },
+  {
+    "model": "common.season",
+    "pk": 3,
+    "fields": { "name": "Otoño" }
+  },
+  {
+    "model": "common.season",
+    "pk": 4,
+    "fields": { "name": "Invierno" }
+  }
+]

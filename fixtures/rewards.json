@@ -1,0 +1,307 @@
+[
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Semillas primaverales (30)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/39/Spring_Seeds.png/24px-Spring_Seeds.png"
+    },
+    "pk": 21
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Semillas veraniegas (30)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c4/Summer_Seeds.png/24px-Summer_Seeds.png"
+    },
+    "pk": 1
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Semillas otoñales (30)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/55/Fall_Seeds.png/24px-Fall_Seeds.png"
+    },
+    "pk": 2
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Semillas invernales (30)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/dd/Winter_Seeds.png/24px-Winter_Seeds.png"
+    },
+    "pk": 3
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Horno de carbón (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/76/Charcoal_Kiln.png/24px-Charcoal_Kiln.png"
+    },
+    "pk": 4
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Botín otoñal (5)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Autumn%27s_Bounty.png/24px-Autumn%27s_Bounty.png"
+    },
+    "pk": 5
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Acelerador básico (20)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed-Gro.png/24px-Speed-Gro.png"
+    },
+    "pk": 6
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Aspersor de calidad (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Quality_Sprinkler.png/24px-Quality_Sprinkler.png"
+    },
+    "pk": 7
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Colmena (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bee_House.png/24px-Bee_House.png"
+    },
+    "pk": 8
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Envasadora (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1e/Preserves_Jar.png/24px-Preserves_Jar.png"
+    },
+    "pk": 9
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Prensa de queso (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/79/Cheese_Press.png/24px-Cheese_Press.png"
+    },
+    "pk": 10
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Barril (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7c/Keg.png/24px-Keg.png"
+    },
+    "pk": 11
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Cebo (30)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Bait.png/24px-Bait.png"
+    },
+    "pk": 12
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Girador disfrazado (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e8/Dressed_Spinner.png/24px-Dressed_Spinner.png"
+    },
+    "pk": 13
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Tótem de viaje: Playa (5)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Warp_Totem_Beach.png/24px-Warp_Totem_Beach.png"
+    },
+    "pk": 14
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Pequeño anillo brillante (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6c/Small_Glow_Ring.png/24px-Small_Glow_Ring.png"
+    },
+    "pk": 15
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Trampa para cangrejos (3)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/92/Crab_Pot.png/24px-Crab_Pot.png"
+    },
+    "pk": 16
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Plato de alta mar (5)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Dish_O%27_The_Sea.png/24px-Dish_O%27_The_Sea.png"
+    },
+    "pk": 17
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Horno (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0f/Furnace.png/24px-Furnace.png"
+    },
+    "pk": 18
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Omnigeoda (5)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/09/Omni_Geode.png/24px-Omni_Geode.png"
+    },
+    "pk": 19
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Pequeño anillo magnético (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Small_Magnet_Ring.png/24px-Small_Magnet_Ring.png"
+    },
+    "pk": 20
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Pastel rosa (3)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Pink_Cake.png/24px-Pink_Cake.png"
+    },
+    "pk": 22
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Semilladora (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Seed_Maker.png/24px-Seed_Maker.png"
+    },
+    "pk": 23
+  },
+
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Máquina recicladora",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/26/Recycling_Machine.png/24px-Recycling_Machine.png"
+    },
+    "pk": 26
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Radiador(1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/93/Heater.png/24px-Heater.png"
+    },
+    "pk": 24
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Lingote de oro (5)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Gold_Bar.png/24px-Gold_Bar.png"
+    },
+    "pk": 25
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Pastel de chocolate (3)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/87/Chocolate_Cake.png/24px-Chocolate_Cake.png"
+    },
+    "pk": 27
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Fertilizante deluxe (30)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a0/Quality_Fertilizer.png/24px-Quality_Fertilizer.png"
+    },
+    "pk": 28
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Pararrayos (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/62/Lightning_Rod.png/24px-Lightning_Rod.png"
+    },
+    "pk": 29
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Cristalario (1)",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/63/Crystalarium.png/24px-Crystalarium.png"
+    },
+    "pk": 30
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Envasadora, producto de las huevas del Esturión.",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/89/Caviar.png/24px-Caviar.png"
+    },
+    "pk": 31
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Puente reparado",
+      "icon": ""
+    },
+    "pk": 32
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Invernadero",
+      "icon": ""
+    },
+    "pk": 33
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Peñasco retirado",
+      "icon": ""
+    },
+    "pk": 34
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Vagonetas reparadas",
+      "icon": ""
+    },
+    "pk": 35
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Amistad",
+      "icon": ""
+    },
+    "pk": 36
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "Autobús reparado",
+      "icon": ""
+    },
+    "pk": 37
+  },
+  {
+    "model": "bundles.reward",
+    "fields": {
+      "name": "???",
+      "icon": ""
+    },
+    "pk": 38
+  }
+]

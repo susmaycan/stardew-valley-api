@@ -1,0 +1,375 @@
+[
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Recolección Primaveral",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/32px-Bundle_Green.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/8/8a/Spring_Foraging_Bundle.png",
+      "reward": 21,
+      "completed_number": 4,
+      "room": 1
+    },
+    "pk": 21
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Recolección Veraniega",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/fd/Summer_Foraging_Bundle.png",
+      "reward": 1,
+      "completed_number": 3,
+      "room": 1
+    },
+    "pk": 1
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Recolección Otoñal",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Fall_Foraging_Bundle.png",
+      "reward": 2,
+      "completed_number": 4,
+      "room": 1
+    },
+    "pk": 2
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Recolección Invernal",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/17/Winter_Foraging_Bundle.png",
+      "reward": 3,
+      "completed_number": 4,
+      "room": 1
+    },
+    "pk": 3
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Construcción",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Construction_Bundle.png",
+      "reward": 4,
+      "completed_number": 4,
+      "room": 1
+    },
+    "pk": 4
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Recolección exótica",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Exotic_Foraging_Bundle.png",
+      "reward": 5,
+      "completed_number": 5,
+      "room": 1
+    },
+    "pk": 5
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Cultivos de Primavera",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/32px-Bundle_Green.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/51/Spring_Crops_Bundle.png",
+      "reward": 6,
+      "completed_number": 4,
+      "room": 2
+    },
+    "pk": 6
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Cultivos de Verano",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/2/27/Summer_Crops_Bundle.png",
+      "reward": 7,
+      "completed_number": 4,
+      "room": 2
+    },
+    "pk": 7
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Cultivos de Otoño",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/0/0d/Fall_Crops_Bundle.png",
+      "reward": 8,
+      "completed_number": 4,
+      "room": 2
+    },
+    "pk": 8
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Cultivos de Calidad",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/8/86/Quality_Crops_Bundle.png",
+      "reward": 9,
+      "completed_number": 3,
+      "room": 2
+    },
+    "pk": 9
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Origen Animal",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Animal_Bundle.png",
+      "reward": 10,
+      "completed_number": 5,
+      "room": 2
+    },
+    "pk": 10
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Origen Artesanal",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Artisan_Bundle.png",
+      "reward": 11,
+      "completed_number": 6,
+      "room": 2
+    },
+    "pk": 11
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Peces Fluviales",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c/c6/River_Fish_Bundle.png",
+      "reward": 12,
+      "completed_number": 4,
+      "room": 3
+    },
+    "pk": 12
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Peces de Lago",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/32px-Bundle_Green.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/46/Lake_Fish_Bundle.png",
+      "reward": 13,
+      "completed_number": 4,
+      "room": 3
+    },
+    "pk": 13
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Peces Marinos",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Bundle_Blue.png/32px-Bundle_Blue.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/ac/Ocean_Fish_Bundle.png",
+      "reward": 14,
+      "completed_number": 4,
+      "room": 3
+    },
+    "pk": 14
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Peces Nocturnos",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/a7/Night_Fishing_Bundle.png",
+      "reward": 15,
+      "completed_number": 3,
+      "room": 3
+    },
+    "pk": 15
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Trampa para Cangrejos",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/2/22/Crab_Pot_Bundle.png",
+      "reward": 16,
+      "completed_number": 5,
+      "room": 3
+    },
+    "pk": 16
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Peces Especiales",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/0/03/Specialty_Fish_Bundle.png",
+      "reward": 17,
+      "completed_number": 4,
+      "room": 3
+    },
+    "pk": 17
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Herrero",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c/c8/Blacksmith_Bundle.png",
+      "reward": 18,
+      "completed_number": 3,
+      "room": 4
+    },
+    "pk": 18
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Geólogo",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/6/68/Geologist%27s_Bundle.png",
+      "reward": 19,
+      "completed_number": 4,
+      "room": 4
+    },
+    "pk": 19
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Aventurero",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/5e/Adventurer%27s_Bundle.png",
+      "reward": 20,
+      "completed_number": 2,
+      "room": 4
+    },
+    "pk": 20
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Chef",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/ea/Chef%27s_Bundle.png",
+      "reward": 22,
+      "completed_number": 6,
+      "room": 5
+    },
+    "pk": 22
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Tinte",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Dye_Bundle.png",
+      "reward": 23,
+      "completed_number": 6,
+      "room": 5
+    },
+    "pk": 23
+  },
+
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Estudio de Campo",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Bundle_Blue.png/32px-Bundle_Blue.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/8/86/Field_Research_Bundle.png",
+      "reward": 26,
+      "completed_number": 4,
+      "room": 5
+    },
+    "pk": 26
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Pienso",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Fodder_Bundle.png",
+      "reward": 24,
+      "completed_number": 3,
+      "room": 5
+    },
+    "pk": 24
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Encantador",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/6/69/Enchanter%27s_Bundle.png",
+      "reward": 25,
+      "completed_number": 4,
+      "room": 5
+    },
+    "pk": 25
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote 2.500",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/e2/2500_Bundle.png",
+      "reward": 27,
+      "completed_number": 1,
+      "room": 6
+    },
+    "pk": 27
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote 5.000",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/17/5000_Bundle.png",
+      "reward": 28,
+      "completed_number": 1,
+      "room": 6
+    },
+    "pk": 28
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote 10.000",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/11/10000_Bundle.png",
+      "reward": 29,
+      "completed_number": 1,
+      "room": 6
+    },
+    "pk": 29
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote 25.000",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/a7/25000_Bundle.png",
+      "reward": 30,
+      "completed_number": 1,
+      "room": 6
+    },
+    "pk": 30
+  },
+  {
+    "model": "bundles.bundle",
+    "fields": {
+      "name": "Lote Extraviado",
+      "icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/2/24/The_Missing_Bundle.png",
+      "reward": 31,
+      "completed_number": 5,
+      "room": 7
+    },
+    "pk": 31
+  }
+]

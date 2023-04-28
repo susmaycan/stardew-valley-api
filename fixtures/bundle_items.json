@@ -1,0 +1,1477 @@
+[
+  {
+    "pk": 1,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Rábano silvestre",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+      "description": "Recolección",
+      "season": [1],
+      "bundle": 21
+    }
+  },
+  {
+    "pk": 2,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Narciso",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+      "description": "Recolección, comprándola a Pierre durante la Danza floral",
+      "season": [1],
+      "bundle": 21
+    }
+  },
+  {
+    "pk": 3,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Puerro",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png",
+      "description": "Recolección",
+      "season": [1],
+      "bundle": 21
+    }
+  },
+
+  {
+    "pk": 4,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Diente de león",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png",
+      "description": "Recolección, comprándola a Pierre durante la Danza floral",
+      "season": [1],
+      "bundle": 21
+    }
+  },
+  {
+    "pk": 5,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Uva",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png",
+      "description": "Recolección en Verano, Cosechándolo en Otoño",
+      "season": [2, 3],
+      "bundle": 1
+    }
+  },
+  {
+    "pk": 6,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Baya especiada",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png",
+      "description": "Recolección en Verano, La cueva de la granja (Si se escogió Murciélagos de la fruta)",
+      "season": [2],
+      "bundle": 1
+    }
+  },
+  {
+    "pk": 7,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Guisante dulce",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png",
+      "description": "Recolección en Verano",
+      "season": [2],
+      "bundle": 1
+    }
+  },
+  {
+    "pk": 8,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Seta común",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png",
+      "description": "Recolección en Otoño, Recolección en Primavera y Otoño en el Bosque secreto, La cueva de la granja (Si se escogió Setas), Resinera en un Árbol seta",
+      "season": [3],
+      "bundle": 2
+    }
+  },
+  {
+    "pk": 9,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Ciruela salvaje",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/3b/Wild_Plum.png",
+      "description": "Recolección en Otoño",
+      "season": [3],
+      "bundle": 2
+    }
+  },
+  {
+    "pk": 10,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Avellana",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+      "description": "Recolección en Otoño",
+      "season": [3],
+      "bundle": 2
+    }
+  },
+  {
+    "pk": 11,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Mora",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/2/25/Blackberry.png",
+      "description": "Recolección en Otoño, La cueva de la granja (Si se escogió Murciélagos de la fruta)",
+      "season": [3],
+      "bundle": 2
+    }
+  },
+  {
+    "pk": 12,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Raíz invernal",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png",
+      "description": "Arando tierra o un Lugar de artefacto en Invierno, matando Babas azules en los pisos 41-79 de Las minas",
+      "season": [4],
+      "bundle": 3
+    }
+  },
+  {
+    "pk": 13,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Fruta de cristal",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/16/Crystal_Fruit.png",
+      "description": "Recolección en Invierno, matando Duendes del polvo en los pisos 41-79 de Las minas",
+      "season": [4],
+      "bundle": 3
+    }
+  },
+  {
+    "pk": 14,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Ñame nival",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png",
+      "description": "Arando tierra o un Lugar de artefacto en Invierno",
+      "season": [4],
+      "bundle": 3
+    }
+  },
+  {
+    "pk": 15,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Azafrán",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png",
+      "description": "Recolección en Invierno",
+      "season": [4],
+      "bundle": 3
+    }
+  },
+  {
+    "pk": 16,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Madera (99)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/d/df/Wood.png",
+      "description": "Talando Árboles o ramas con un Hacha, Carpintería",
+      "season": [1, 2, 3, 4],
+      "bundle": 4
+    }
+  },
+  {
+    "pk": 17,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Madera (99)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/d/df/Wood.png",
+      "description": "Talando Árboles o ramas con un Hacha, Carpintería",
+      "season": [1, 2, 3, 4],
+      "bundle": 4
+    }
+  },
+  {
+    "pk": 18,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Piedra (99)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png",
+      "description": "Picando rocas con un Pico, Carpintería",
+      "season": [1, 2, 3, 4],
+      "bundle": 4
+    }
+  },
+  {
+    "pk": 19,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Madera noble (10)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Hardwood.png",
+      "description": "Talando tocones grandes o troncos grandes con un Hacha mejorada, rompiendo cajas en Las minas",
+      "season": [1, 2, 3, 4],
+      "bundle": 4
+    }
+  },
+  {
+    "pk": 20,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Coco",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png",
+      "description": "Recolección en El Desierto, Oasis",
+      "season": [1, 2, 3, 4],
+      "bundle": 5
+    }
+  },
+  {
+    "pk": 21,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Higo chumbo",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png",
+      "description": "Recolección en El Desierto, Oasis",
+      "season": [1, 2, 3, 4],
+      "bundle": 5
+    }
+  },
+  {
+    "pk": 22,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Zanahoria cavernaria",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/34/Cave_Carrot.png",
+      "description": "Las minas rompiendo cajas o arando tierra blanda",
+      "season": [1, 2, 3, 4],
+      "bundle": 5
+    }
+  },
+  {
+    "pk": 23,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Seta roja",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Red_Mushroom.png",
+      "description": "Recolección en Las minas, Recolección en Verano u Otoño en el Bosque secreto, La cueva de la granja (Si se escogió Setas), Resinera en un Árbol seta, Granja Forestal en Otoño",
+      "season": [1, 2, 3, 4],
+      "bundle": 5
+    }
+  },
+  {
+    "pk": 24,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Seta lila",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+      "description": "Las minas, La cueva de la granja (Si se escogió Setas), Granja forestal en Otoño",
+      "season": [1, 2, 3, 4],
+      "bundle": 5
+    }
+  },
+  {
+    "pk": 25,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Jarabe de arce",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Maple_Syrup.png",
+      "description": "Resinera en un Arce",
+      "season": [1, 2, 3, 4],
+      "bundle": 5
+    }
+  },
+  {
+    "pk": 26,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Resina de roble",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/40/Oak_Resin.png",
+      "description": "Resinera en un Roble",
+      "season": [1, 2, 3, 4],
+      "bundle": 5
+    }
+  },
+  {
+    "pk": 27,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Brea de pino",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c/ce/Pine_Tar.png",
+      "description": "Resinera en un Pino",
+      "season": [1, 2, 3, 4],
+      "bundle": 5
+    }
+  },
+  {
+    "pk": 28,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Colmenilla",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png",
+      "description": "Recolección en el Bosque secreto o la Granja Forestal en Primavera, La cueva de la granja (Si se escogió Setas)",
+      "season": [1, 2, 3, 4],
+      "bundle": 5
+    }
+  },
+  {
+    "pk": 29,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Chirivía",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png",
+      "description": "Cultivándola en Primavera",
+      "season": [1],
+      "bundle": 6
+    }
+  },
+  {
+    "pk": 30,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Judía verde",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Green_Bean.png",
+      "description": "Cultivándola en Primavera",
+      "season": [1],
+      "bundle": 6
+    }
+  },
+  {
+    "pk": 31,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Coliflor",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png",
+      "description": "Cultivándola en Primavera",
+      "season": [1],
+      "bundle": 6
+    }
+  },
+  {
+    "pk": 32,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Patata",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Potato.png",
+      "description": "Cultivándola en Primavera",
+      "season": [1],
+      "bundle": 6
+    }
+  },
+  {
+    "pk": 33,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Tomate",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Tomato.png",
+      "description": "Cultivándolo en Verano",
+      "season": [2],
+      "bundle": 7
+    }
+  },
+  {
+    "pk": 34,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Chile",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png",
+      "description": "Cultivándolo en Verano",
+      "season": [2],
+      "bundle": 7
+    }
+  },
+  {
+    "pk": 35,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Arándano",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png",
+      "description": "Cultivándolo en Verano",
+      "season": [2],
+      "bundle": 7
+    }
+  },
+  {
+    "pk": 36,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Melón",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/19/Melon.png",
+      "description": "Cultivándolo en Verano",
+      "season": [2],
+      "bundle": 7
+    }
+  },
+  {
+    "pk": 37,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Maíz",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png",
+      "description": "Cultivándolo en Verano/Otoño",
+      "season": [2, 3],
+      "bundle": 8
+    }
+  },
+  {
+    "pk": 38,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Berenjena",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Eggplant.png",
+      "description": "Cultivándola en Otoño",
+      "season": [3],
+      "bundle": 8
+    }
+  },
+  {
+    "pk": 39,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Calabaza",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png",
+      "description": "Cultivándola en Otoño",
+      "season": [3],
+      "bundle": 8
+    }
+  },
+  {
+    "pk": 41,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Ñame",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Yam.png",
+      "description": "Cultivándolo en Otoño, botín de Cavadorín en los pisos 6-29 de Las minas (3%)",
+      "season": [3],
+      "bundle": 8
+    }
+  },
+  {
+    "pk": 42,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Chirivía calidad oro (5)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png",
+      "description": "Cultivándola en Primavera",
+      "season": [1],
+      "bundle": 9
+    }
+  },
+  {
+    "pk": 43,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Melón calidad oro (5)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/19/Melon.png",
+      "description": "Cultivándolo en Verano",
+      "season": [2],
+      "bundle": 9
+    }
+  },
+  {
+    "pk": 44,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Calabaza calidad oro (5)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png",
+      "description": "Cultivándola en Otoño",
+      "season": [3],
+      "bundle": 9
+    }
+  },
+  {
+    "pk": 45,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Maíz calidad oro (5)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png",
+      "description": "Cultivándolo en Verano / Otoño",
+      "season": [2, 3],
+      "bundle": 9
+    }
+  },
+  {
+    "pk": 46,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Leche XXL",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/f3/Large_Milk_ES.png",
+      "description": "Vaca",
+      "season": [1, 2, 3, 4],
+      "bundle": 10
+    }
+  },
+  {
+    "pk": 47,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Huevo XXL marrón",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/91/Large_Brown_Egg.png",
+      "description": "Gallina marrón",
+      "season": [1, 2, 3, 4],
+      "bundle": 10
+    }
+  },
+  {
+    "pk": 48,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Huevo XXL",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Large_Egg.png",
+      "description": "Gallina blanca",
+      "season": [1, 2, 3, 4],
+      "bundle": 10
+    }
+  },
+  {
+    "pk": 49,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Leche de cabra XXL",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/fa/Large_Goat_Milk_ES.png",
+      "description": "Cabra",
+      "season": [1, 2, 3, 4],
+      "bundle": 10
+    }
+  },
+  {
+    "pk": 50,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Lana",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/34/Wool.png",
+      "description": "Oveja, Conejo",
+      "season": [1, 2, 3, 4],
+      "bundle": 10
+    }
+  },
+  {
+    "pk": 51,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Huevo de pato",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png",
+      "description": "Pato",
+      "season": [1, 2, 3, 4],
+      "bundle": 10
+    }
+  },
+  {
+    "pk": 52,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Aceite de trufa",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Truffle_Oil.png",
+      "description": "Hecho de Trufas en una Aceitera",
+      "season": [1, 2, 3, 4],
+      "bundle": 11
+    }
+  },
+  {
+    "pk": 53,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Tela",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/51/Cloth.png",
+      "description": "Hecha de Lana en un Telar, hecha de un Periódico empapado en una Máquina recicladora, Comerciante del desierto, botín de Momias en la Caverna Calavera",
+      "season": [1, 2, 3, 4],
+      "bundle": 11
+    }
+  },
+  {
+    "pk": 54,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Queso de cabra",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c/c8/Goat_Cheese.png",
+      "description": "Hecho de Leche de cabra en una Prensa de queso",
+      "season": [1, 2, 3, 4],
+      "bundle": 11
+    }
+  },
+  {
+    "pk": 55,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Queso",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Cheese.png",
+      "description": "Hecho de Leche en una Prensa de queso, Comerciante del desierto",
+      "season": [1, 2, 3, 4],
+      "bundle": 11
+    }
+  },
+  {
+    "pk": 56,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Miel",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png",
+      "description": "Colmena, Oasis",
+      "season": [1, 2, 3, 4],
+      "bundle": 11
+    }
+  },
+  {
+    "pk": 57,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Mermelada",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/0/05/Jelly.png",
+      "description": "Hecha de Frutas en una Envasadora",
+      "season": [1, 2, 3, 4],
+      "bundle": 11
+    }
+  },
+  {
+    "pk": 58,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Manzana",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Apple.png",
+      "description": "Manzano durante Otoño, La cueva de la granja (Si se escogió Murciélagos de la fruta)",
+      "season": [3],
+      "bundle": 11
+    }
+  },
+  {
+    "pk": 59,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Albaricoque",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/fc/Apricot.png",
+      "description": "Albaricoquero durante Primavera, La cueva de la granja (Si se escogió Murciélagos de la fruta)",
+      "season": [1],
+      "bundle": 11
+    }
+  },
+  {
+    "pk": 60,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Naranja",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/43/Orange.png",
+      "description": "Naranjo durante Verano, La cueva de la granja (Si se escogió Murciélagos de la fruta)",
+      "season": [2],
+      "bundle": 11
+    }
+  },
+  {
+    "pk": 61,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Melocotón",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Peach.png",
+      "description": "Melocotonero durante Verano, La cueva de la granja (Si se escogió Murciélagos de la fruta)",
+      "season": [2],
+      "bundle": 11
+    }
+  },
+  {
+    "pk": 62,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Granada",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Pomegranate.png",
+      "description": "Granado durante Otoño, La cueva de la granja (Si se escogió Murciélago de la fruta)",
+      "season": [3],
+      "bundle": 11
+    }
+  },
+  {
+    "pk": 63,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Cereza",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/2/20/Cherry.png",
+      "description": "Cerezo durante Primavera, La cueva de la granja (Si se escogió Murciélago de la fruta)",
+      "season": [1],
+      "bundle": 11
+    }
+  },
+  {
+    "pk": 64,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Pez sol",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/56/Sunfish.png",
+      "description": "Se encuentra en ríos, 6:00 AM - 7:00 PM, Primavera, y Verano durante clima soleado",
+      "season": [1, 2],
+      "bundle": 12
+    }
+  },
+  {
+    "pk": 65,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Pez gato",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/99/Catfish.png",
+      "description": "Se encuentra en Ríos y Bosque Secreto, 6:00 AM hasta la media noche, Primavera y Otoño. Solo cuando llueve. Puede ser encontrado en Verano mientras llueve en el Bosque Secreto y el Pantano de la Bruja, Invierno con un Tótem de lluvia.",
+      "season": [2, 3],
+      "bundle": 12
+    }
+  },
+  {
+    "pk": 66,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Sábalo",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/ef/Shad.png",
+      "description": "Se encuentra en Ríos, 9:00 AM hasta las 2:00 AM, Primavera, Verano y Otoño. Sólo cuando llueve.",
+      "season": [1, 2, 3],
+      "bundle": 12
+    }
+  },
+  {
+    "pk": 67,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Trucha tigre",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/0/01/Tiger_Trout.png",
+      "description": "Se encuentra en Ríos, 6:00 AM - 7:00 PM, Otoño e Invierno. Puede pescarse en cualquier clima.",
+      "season": [3, 4],
+      "bundle": 12
+    }
+  },
+  {
+    "pk": 68,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Perca",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/11/Largemouth_Bass.png",
+      "description": "Se encuentra en el Lago de la Montaña, 6:00 AM - 7:00 PM, Todas las estaciones.",
+      "season": [1, 2, 3, 4],
+      "bundle": 13
+    }
+  },
+  {
+    "pk": 69,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Carpa",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Carp.png",
+      "description": "Se encuentra en el Lago de la Montaña, A cualquier hora, durante Primavera, Verano y Otoño. Se puede pescar en el Bosque Secreto o Las Cloacas, a cualquier hora, en cualquier estación.",
+      "season": [1, 2, 3, 4],
+      "bundle": 13
+    }
+  },
+  {
+    "pk": 70,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Siluro",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Bullhead.png",
+      "description": "Se encuentra en el Lago de la Montaña. A cualquier hora. Todas las estaciones",
+      "season": [1, 2, 3, 4],
+      "bundle": 13
+    }
+  },
+  {
+    "pk": 71,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Esturión",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/42/Sturgeon.png",
+      "description": "Se encuentra en el Lago de la Montaña, 6:00 AM - 7:00 PM, Verano e Invierno",
+      "season": [1, 4],
+      "bundle": 13
+    }
+  },
+  {
+    "pk": 72,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Sardina",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/0/04/Sardine.png",
+      "description": "Se encuentra en el océano, 6:00 AM - 7:00 PM, Primavera, Otoño e Invierno",
+      "season": [1, 3, 4],
+      "bundle": 14
+    }
+  },
+  {
+    "pk": 73,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Atún",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Tuna.png",
+      "description": "Se encuentra en el océano, 6:00 AM - 7:00 PM, Verano e Invierno",
+      "season": [1, 4],
+      "bundle": 14
+    }
+  },
+  {
+    "pk": 74,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Pargo colorado",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/d/d3/Red_Snapper.png",
+      "description": "Se encuentra en el océano, 6:00 AM - 7:00 PM, Verano y Otoño. Sólo cuando llueve",
+      "season": [2, 3],
+      "bundle": 14
+    }
+  },
+  {
+    "pk": 75,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Tilapia",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/7/73/Tilapia.png",
+      "description": "Se encuentra en el océano, 6:00 AM - 2:00 PM, Verano y Otoño",
+      "season": [2, 3],
+      "bundle": 14
+    }
+  },
+  {
+    "pk": 76,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Lucio",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/0/05/Walleye.png",
+      "description": "Se encuentra en el Río, el Lago de la Montaña, y el estanque del Bosque Tizón, 12:00 PM - 2:00 AM, Otoño, (Invierno con Tótem de lluvia.) Sólo cuando llueve.",
+      "season": [3],
+      "bundle": 15
+    }
+  },
+  {
+    "pk": 77,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Besugo",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/8/82/Bream.png",
+      "description": "Se encuentra en Ríos, 6:00 PM - 2:00 AM. Todas las estaciones.",
+      "season": [1, 2, 3, 4],
+      "bundle": 15
+    }
+  },
+  {
+    "pk": 78,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Anguila",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/91/Eel.png",
+      "description": "Se encuentra en el océano, 4:00 PM - 2:00 AM, Primavera y Otoño. Sólo cuando llueve.",
+      "season": [1, 3],
+      "bundle": 15
+    }
+  },
+  {
+    "pk": 79,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Langosta",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/9f/Lobster.png",
+      "description": "Capturado en una Trampa para cangrejos (Océano)",
+      "season": [1, 2, 3, 4],
+      "bundle": 16
+    }
+  },
+  {
+    "pk": 80,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Cangrejo de río",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/53/Crayfish.png",
+      "description": "Capturado en una Trampa para cangrejos (Agua dulce)",
+      "season": [1, 2, 3, 4],
+      "bundle": 16
+    }
+  },
+  {
+    "pk": 81,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Cangrejo",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/6/63/Crab.png",
+      "description": "Capturado en una Trampa para cangrejos (Océano), matando Cangrejos de roca o Cangrejos de lava en Las minas",
+      "season": [1, 2, 3, 4],
+      "bundle": 16
+    }
+  },
+  {
+    "pk": 82,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Berberecho",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Cockle.png",
+      "description": "Capturado en una Trampa para cangrejos (Océano), Recolección en La Playa",
+      "season": [1, 2, 3, 4],
+      "bundle": 16
+    }
+  },
+  {
+    "pk": 83,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Mejillón",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Mussel.png",
+      "description": "Capturado en una Trampa para cangrejos (Océano), Recolección en La Playa",
+      "season": [1, 2, 3, 4],
+      "bundle": 16
+    }
+  },
+  {
+    "pk": 84,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Gamba",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/91/Shrimp.png",
+      "description": "Capturada en una Trampa para cangrejos (Océano)",
+      "season": [1, 2, 3, 4],
+      "bundle": 16
+    }
+  },
+  {
+    "pk": 85,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Caracol",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png",
+      "description": "Capturado en una Trampa para cangrejos (Agua dulce)",
+      "season": [1, 2, 3, 4],
+      "bundle": 16
+    }
+  },
+  {
+    "pk": 86,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Bígaro",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Periwinkle.png",
+      "description": "Capturado en una Trampa para cangrejos (Agua dulce)",
+      "season": [1, 2, 3, 4],
+      "bundle": 16
+    }
+  },
+  {
+    "pk": 87,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Ostra",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/54/Oyster.png",
+      "description": "Capturada en una Trampa para cangrejos (Océano), Recolección en La Playa",
+      "season": [1, 2, 3, 4],
+      "bundle": 16
+    }
+  },
+  {
+    "pk": 88,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Almeja",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png",
+      "description": "Capturada en una Trampa para cangrejos (Océano), Recolección en La Playa",
+      "season": [1, 2, 3, 4],
+      "bundle": 16
+    }
+  },
+  {
+    "pk": 89,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Pez globo",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/b/ba/Pufferfish.png",
+      "description": "Se encuentra en el Océano, 12:00 PM - 4:00 PM, Verano durante un día soleado.",
+      "season": [2],
+      "bundle": 17
+    }
+  },
+  {
+    "pk": 90,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Pez fantasma",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/7/72/Ghostfish.png",
+      "description": "Se encuentra en los estanques de Las minas, piso 20 y 60, A cualquier hora, Todas las estaciones. También es botín de Fantasmas.",
+      "season": [1, 2, 3, 4],
+      "bundle": 17
+    }
+  },
+  {
+    "pk": 91,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Lenguado",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/b/bb/Sandfish.png",
+      "description": "Se encuentra en el estanque del Desierto de Calico, 6:00 AM - 10:00 PM, Todas las estaciones.",
+      "season": [1, 2, 3, 4],
+      "bundle": 17
+    }
+  },
+  {
+    "pk": 92,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Muyu",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/97/Woodskip.png",
+      "description": "Se encuentra en el Bosque Secreto y la Granja Forestal, A cualquier hora, Todas las estaciones.",
+      "season": [1, 2, 3, 4],
+      "bundle": 17
+    }
+  },
+  {
+    "pk": 93,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Lingote de cobre",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Copper_Bar.png",
+      "description": "Fundiendo Menas de cobre en un Horno",
+      "season": [1, 2, 3, 4],
+      "bundle": 18
+    }
+  },
+  {
+    "pk": 94,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Lingote de hierro",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/6/6c/Iron_Bar.png",
+      "description": "Fundiendo Menas de hierro en un Horno, Fabricándolo con la receta \"Transmutar (Fe)\"",
+      "season": [1, 2, 3, 4],
+      "bundle": 18
+    }
+  },
+  {
+    "pk": 95,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Lingote de oro",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png",
+      "description": "Fundiendo Menas de oro en un Horno, Fabricándolo con la receta \"Transmutar (Au)\"",
+      "season": [1, 2, 3, 4],
+      "bundle": 18
+    }
+  },
+  {
+    "pk": 96,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Cuarzo",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png",
+      "description": "Recolectándolo en cualquier piso de Las minas.",
+      "season": [1, 2, 3, 4],
+      "bundle": 19
+    }
+  },
+  {
+    "pk": 97,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Cristal terrestre",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png",
+      "description": "Recolectándolo en los pisos 1-39 de Las minas, Geodas, botín de Cavadorines en Las minas. (Pisos 6-29)",
+      "season": [1, 2, 3, 4],
+      "bundle": 19
+    }
+  },
+  {
+    "pk": 98,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Lágrima helada",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png",
+      "description": "Reconlectándola en los pisos 41-79 de Las minas, Geodas de hielo, Omnigeodas, botín de Duendes del polvo en Las minas. (Pisos 41-79)",
+      "season": [1, 2, 3, 4],
+      "bundle": 19
+    }
+  },
+  {
+    "pk": 99,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Cuarzo de fuego",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/5b/Fire_Quartz.png",
+      "description": "Recolectándolo en los pisos 81-119 de Las minas, Geodas de magma, Omnigeodas.",
+      "season": [1, 2, 3, 4],
+      "bundle": 19
+    }
+  },
+  {
+    "pk": 100,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Baba (99)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/38/Slime.png",
+      "description": "Botín de Babas.",
+      "season": [1, 2, 3, 4],
+      "bundle": 20
+    }
+  },
+  {
+    "pk": 101,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Ala de murciélago (10)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/35/Bat_Wing.png",
+      "description": "Botín de Murciélagos en Las minas o la Caverna Calavera.",
+      "season": [1, 2, 3, 4],
+      "bundle": 20
+    }
+  },
+  {
+    "pk": 102,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Esencia solar",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Solar_Essence.png",
+      "description": "Botín de Fantasmas, Niños calamar o Cabezas de metal en Las minas, botín de Momias o Murciélagos de iridio en la Caverna Calavera; producido por Pez sol en el Estanque de peces; comprando a Krobus.",
+      "season": [1, 2, 3, 4],
+      "bundle": 20
+    }
+  },
+  {
+    "pk": 103,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Esencia sombría",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/1f/Void_Essence.png",
+      "description": "Botín de Bestias de las sombras o Chamanes de las sombras en Las minas o Serpientes en la Caverna Calavera; producido por Salmón de vacío en el Estanque de peces; comprando a Krobus.",
+      "season": [1, 2, 3, 4],
+      "bundle": 20
+    }
+  },
+  {
+    "pk": 104,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Jarabe de arce",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Maple_Syrup.png",
+      "description": "Resinera en un Arce.",
+      "season": [1, 2, 3, 4],
+      "bundle": 22
+    }
+  },
+  {
+    "pk": 105,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Helecho",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/48/Fiddlehead_Fern.png",
+      "description": "Recolección en el Bosque secreto en Verano, Recolectando en pisos prehistóricos en la Caverna Calavera.",
+      "season": [1, 2, 3, 4],
+      "bundle": 22
+    }
+  },
+  {
+    "pk": 106,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Trufa",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Truffle.png",
+      "description": "Cerdo.",
+      "season": [1, 2, 3, 4],
+      "bundle": 22
+    }
+  },
+  {
+    "pk": 107,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Amapola",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png",
+      "description": "Cosechándola en Verano.",
+      "season": [2],
+      "bundle": 22
+    }
+  },
+  {
+    "pk": 108,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Rollitos maki",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/d/d6/Cooking_Channel.png",
+      "description": "Cocina",
+      "season": [1, 2, 3, 4],
+      "bundle": 22
+    }
+  },
+  {
+    "pk": 109,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Huevo frito",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/18/Fried_Egg.png",
+      "description": "Cocina.",
+      "season": [1, 2, 3, 4],
+      "bundle": 22
+    }
+  },
+  {
+    "pk": 110,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Seta roja",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Red_Mushroom.png",
+      "description": "Recolección en Las minas, Recolección en el Bosque secreto en Verano y otoño, La cueva de la granja (Si se escogió Setas), Resinera sobre Árbol seta.",
+      "season": [1, 2, 3, 4],
+      "bundle": 23
+    }
+  },
+  {
+    "pk": 111,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Erizo de mar",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/e7/Sea_Urchin.png",
+      "description": "Recolección en La Playa tras usar 300 de madera para arreglar el puente a la derecha de La playa o cualquier lado de la playa durante la temporada de apareamiento del cangrejo; Recolección en la Granja de la playa.",
+      "season": [1, 2, 3, 4],
+      "bundle": 23
+    }
+  },
+  {
+    "pk": 112,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Girasol",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/8/81/Sunflower.png",
+      "description": "Cosechándola en Verano/Otoño.",
+      "season": [2, 3],
+      "bundle": 23
+    }
+  },
+  {
+    "pk": 113,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Pluma de pato",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png",
+      "description": "Pato.",
+      "season": [1, 2, 3, 4],
+      "bundle": 23
+    }
+  },
+  {
+    "pk": 114,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Aguamarina",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png",
+      "description": "Piedra aguamarina y cajas de Las minas, Pescando cofres del tesoro.",
+      "season": [1, 2, 3, 4],
+      "bundle": 23
+    }
+  },
+  {
+    "pk": 115,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Lombarda",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/2/2d/Red_Cabbage.png",
+      "description": "Cosechándola en Verano (Las Semillas de lombarda están disponibles en la Tienda local Pierre's a partir del año 2, en el Carro Ambulante, o botín de Serpientes, Momias, y Babas púrpuras)",
+      "season": [2],
+      "bundle": 23
+    }
+  },
+  {
+    "pk": 116,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Trigo (10)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Wheat.png",
+      "description": "Cosechándolo en Verano/Otoño",
+      "season": [2, 3],
+      "bundle": 24
+    }
+  },
+  {
+    "pk": 117,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Heno (10)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Hay.png",
+      "description": "Comprándolo en el Rancho de Marnie o del Comerciante del desierto, cortando Hierba o Trigo con la Guadaña teniendo un Silo",
+      "season": [1, 2, 3, 4],
+      "bundle": 24
+    }
+  },
+  {
+    "pk": 118,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Manzana (3)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Apple.png",
+      "description": "Manzano en Otoño, La cueva de la granja (Si se escogió Murciélagos de la fruta)",
+      "season": [3],
+      "bundle": 24
+    }
+  },
+  {
+    "pk": 119,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Resina de roble",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/40/Oak_Resin.png",
+      "description": "Resinera en un Roble",
+      "season": [1, 2, 3, 4],
+      "bundle": 25
+    }
+  },
+  {
+    "pk": 120,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Vino",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/6/69/Wine.png",
+      "description": "Hecho de Frutas en un Barril",
+      "season": [1, 2, 3, 4],
+      "bundle": 25
+    }
+  },
+  {
+    "pk": 121,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Pata de conejo",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c.png/24px-Rabbit%27s_Foot.png",
+      "description": "Conejo, matando Serpientes en la Caverna Calavera (0.8%)",
+      "season": [1, 2, 3, 4],
+      "bundle": 25
+    }
+  },
+  {
+    "pk": 122,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Granada",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Pomegranate.png",
+      "description": "Granado en otoño, La cueva de la granja (Si se escogió Murciélagos de la fruta)",
+      "season": [3],
+      "bundle": 25
+    }
+  },
+  {
+    "pk": 123,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "2500",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Bundle_Purchase_PT.png",
+      "description": null,
+      "season": [1, 2, 3, 4],
+      "bundle": 27
+    }
+  },
+  {
+    "pk": 124,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "5000",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Bundle_Purchase_PT.png",
+      "description": null,
+      "season": [1, 2, 3, 4],
+      "bundle": 28
+    }
+  },
+  {
+    "pk": 125,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "10000",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Bundle_Purchase_PT.png",
+      "description": null,
+      "season": [1, 2, 3, 4],
+      "bundle": 29
+    }
+  },
+  {
+    "pk": 126,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "25000",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Bundle_Purchase_PT.png",
+      "description": null,
+      "season": [1, 2, 3, 4],
+      "bundle": 30
+    }
+  },
+  {
+    "pk": 127,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Vino calidad plateada o mayor",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/6/69/Wine.png",
+      "description": "Tonel, el Balneario de la Isla Jengibre.",
+      "season": [1, 2, 3, 4],
+      "bundle": 31
+    }
+  },
+  {
+    "pk": 128,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Mayonesa dinosaurio",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Dinosaur_Mayonnaise.png",
+      "description": "Mayonesera",
+      "season": [1, 2, 3, 4],
+      "bundle": 31
+    }
+  },
+  {
+    "pk": 129,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Esquirla prismática",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/56/Prismatic_Shard.png",
+      "description": "Minería",
+      "season": [1, 2, 3, 4],
+      "bundle": 31
+    }
+  },
+  {
+    "pk": 130,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Fruta milenaria calidad oro (5)",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/0/01/Ancient_Fruit.png",
+      "description": "Cultivos",
+      "season": [1, 2, 3, 4],
+      "bundle": 31
+    }
+  },
+  {
+    "pk": 131,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Salmón sombrío calidad oro",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Void_Salmon.png",
+      "description": "Pescando en el Pantano de la Bruja.",
+      "season": [1, 2, 3, 4],
+      "bundle": 31
+    }
+  },
+  {
+    "pk": 132,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Seta lila",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+      "description": "Recolección en Las minas, La cueva de la granja (Si se escogió Setas), Recolección en la Granja Forestal en Otoño.",
+      "season": [3],
+      "bundle": 26
+    }
+  },
+  {
+    "pk": 133,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Concha de nautilo",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/a4/Nautilus_Shell.png",
+      "description": "Recolección en La Playa en Invierno, Recolección en la Granja de la Playa en cualquier estación. Regalo aleatorio de Demetrius (Nota: NO confundir con Fósil de nautilo)",
+      "season": [1, 2, 3, 4],
+      "bundle": 26
+    }
+  },
+  {
+    "pk": 134,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Barbo",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Chub.png",
+      "description": "Se encuentra en Lago de la Montaña y los Ríos en todas las estaciones.",
+      "season": [1, 2, 3, 4],
+      "bundle": 26
+    }
+  },
+  {
+    "pk": 135,
+    "model": "bundles.bundleitem",
+    "fields": {
+      "name": "Geoda de hielo",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/b/bf/Frozen_Geode.png",
+      "description": "Las minas (Pisos 41-79) ",
+      "season": [1, 2, 3, 4],
+      "bundle": 26
+    }
+  }
+]

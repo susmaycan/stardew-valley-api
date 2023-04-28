@@ -1,0 +1,37 @@
+[
+  {
+    "model": "bundles.BundleRoom",
+    "pk": 1,
+    "fields": { "name": "Sala de manualidades", "reward": 32 }
+  },
+  {
+    "model": "bundles.BundleRoom",
+    "pk": 2,
+    "fields": { "name": "Alacena", "reward": 33 }
+  },
+  {
+    "model": "bundles.BundleRoom",
+    "pk": 3,
+    "fields": { "name": "Pecera", "reward": 34 }
+  },
+  {
+    "model": "bundles.BundleRoom",
+    "pk": 4,
+    "fields": { "name": "Sala de caldera", "reward": 35 }
+  },
+  {
+    "model": "bundles.BundleRoom",
+    "pk": 5,
+    "fields": { "name": "Tablón de anuncios", "reward": 36 }
+  },
+  {
+    "model": "bundles.BundleRoom",
+    "pk": 6,
+    "fields": { "name": "Caja fuerte", "reward": 37 }
+  },
+  {
+    "model": "bundles.BundleRoom",
+    "pk": 7,
+    "fields": { "name": "MercaJoja abandonado", "reward": 38 }
+  }
+]
