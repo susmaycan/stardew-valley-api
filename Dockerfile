@@ -7,3 +7,4 @@ RUN pip install -r requirements.txt
 RUN apt-get update && apt-get install -y gettext
 COPY . /app/
 EXPOSE 3003
+RUN python manage.py runserver 0.0.0.0:3003
