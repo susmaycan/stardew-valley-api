@@ -2,7 +2,7 @@
 
 set -o errexit  # exit on error
 
-sudo apt-get install python3-dev
+apt-get install python3-dev
 
 pip install -r requirements.txt
 
