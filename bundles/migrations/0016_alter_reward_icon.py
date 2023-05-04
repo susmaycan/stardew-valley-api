@@ -6,13 +6,15 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('bundles', '0015_alter_bundleroom_reward'),
+        ("bundles", "0015_alter_bundleroom_reward"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='reward',
-            name='icon',
-            field=models.CharField(blank=True, max_length=200, null=True, verbose_name='icon'),
+            model_name="reward",
+            name="icon",
+            field=models.CharField(
+                blank=True, max_length=200, null=True, verbose_name="icon"
+            ),
         ),
     ]

@@ -2,6 +2,7 @@ from rest_framework import serializers
 
 from bundles.models import Bundle, BundleItem, BundleRoom, Reward
 
+
 class RewardSerializer(serializers.ModelSerializer):
     class Meta:
         model = Reward
@@ -10,11 +11,11 @@ class RewardSerializer(serializers.ModelSerializer):
             "icon",
         )
 
+
 class BundleRoomSerializer(serializers.ModelSerializer):
     id = serializers.IntegerField(read_only=True)
     bundles = serializers.SerializerMethodField()
     reward = RewardSerializer()
-
 
     class Meta:
         model = BundleRoom

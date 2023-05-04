@@ -6,18 +6,22 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('bundles', '0010_delete_season_alter_bundleitem_season'),
+        ("bundles", "0010_delete_season_alter_bundleitem_season"),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='bundle',
-            name='image',
-            field=models.CharField(blank=True, max_length=200, null=True, verbose_name='image'),
+            model_name="bundle",
+            name="image",
+            field=models.CharField(
+                blank=True, max_length=200, null=True, verbose_name="image"
+            ),
         ),
         migrations.AddField(
-            model_name='bundleitem',
-            name='image',
-            field=models.CharField(blank=True, max_length=200, null=True, verbose_name='image'),
+            model_name="bundleitem",
+            name="image",
+            field=models.CharField(
+                blank=True, max_length=200, null=True, verbose_name="image"
+            ),
         ),
     ]

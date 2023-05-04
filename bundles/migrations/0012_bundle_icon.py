@@ -6,13 +6,15 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('bundles', '0011_bundle_image_bundleitem_image'),
+        ("bundles", "0011_bundle_image_bundleitem_image"),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='bundle',
-            name='icon',
-            field=models.CharField(blank=True, max_length=200, null=True, verbose_name='icon'),
+            model_name="bundle",
+            name="icon",
+            field=models.CharField(
+                blank=True, max_length=200, null=True, verbose_name="icon"
+            ),
         ),
     ]

@@ -80,7 +80,9 @@ class SeasonTestCase(TestCase):
         self.assertEqual(len(content["bundles"]), 1)
         animal_sub_bundle = content["bundles"][0]
         self.assertEqual(animal_sub_bundle["name"], self.animal_sub_bundle.name)
-        self.assertEqual(animal_sub_bundle["reward"]["name"], self.animal_sub_bundle.reward.name)
+        self.assertEqual(
+            animal_sub_bundle["reward"]["name"], self.animal_sub_bundle.reward.name
+        )
         self.assertEqual(len(animal_sub_bundle["items"]), 3)
 
     def test_retrieve_bundle_by_id_not_found(self):

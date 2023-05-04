@@ -6,13 +6,15 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('bundles', '0016_alter_reward_icon'),
+        ("bundles", "0016_alter_reward_icon"),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='bundle',
-            name='completed_number',
-            field=models.IntegerField(default=4, max_length=2, verbose_name='completed number'),
+            model_name="bundle",
+            name="completed_number",
+            field=models.IntegerField(
+                default=4, max_length=2, verbose_name="completed number"
+            ),
         ),
     ]

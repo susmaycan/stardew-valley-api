@@ -11,6 +11,7 @@ class RewardFactory(DjangoModelFactory):
     class Meta:
         model = Reward
 
+
 class BundleRoomFactory(DjangoModelFactory):
     name = Faker("pystr", min_chars=1, max_chars=50)
     reward = SubFactory(RewardFactory)

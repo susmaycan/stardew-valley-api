@@ -10,6 +10,7 @@ class Reward(models.Model):
     def __str__(self):
         return self.name
 
+
 class BundleRoom(models.Model):
     id = models.BigAutoField(primary_key=True)
     name = models.CharField(_("name"), max_length=50, null=False, blank=False)
@@ -26,7 +27,9 @@ class Bundle(models.Model):
     image = models.CharField(_("image"), max_length=200, null=True, blank=True)
     reward = models.ForeignKey(Reward, on_delete=models.CASCADE)
     room = models.ForeignKey(BundleRoom, on_delete=models.CASCADE)
-    completed_number = models.IntegerField(_("completed number"), null=False, blank=False, default=4)
+    completed_number = models.IntegerField(
+        _("completed number"), null=False, blank=False, default=4
+    )
 
     def __str__(self):
         return self.name
